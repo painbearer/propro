@@ -1,4 +1,4 @@
-# Recipe Sharing Network (RecipeNet)
+# Recipe Sharing Network 
 
 Modern Angular (v21) + Angular Material demo app for a “Recipe Sharing Network”, built to run **fully without a backend** on first run via a persistent **Mock API** layer.
 
